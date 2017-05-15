@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  15 of 1311 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Test_openCV.vcxproj -> C:\Users\edzem\Desktop\nauja versija\Akies_dugnas_c-\x64\Release\Test_openCV.exe
+  Test_openCV.vcxproj -> C:\Users\edzem\Desktop\nauja versija\Akies_dugnas_c-\x64\Release\Test_openCV.pdb (Full PDB)
